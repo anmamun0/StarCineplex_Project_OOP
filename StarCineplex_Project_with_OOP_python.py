@@ -1,6 +1,6 @@
 #_Coder : anmamun0 | 27 October 2024 ||  14:19:13
 # بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ _File: Mid_Exam.py 
-#  starCineplex
+
 class StarCineplex:
     def __init__(self) -> None:
         self.hall_list = {}
